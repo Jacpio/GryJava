@@ -1,2 +1,2 @@
 # GryJava
-Cześć, Pokaże Gry któe wykonałem W javie
+Cześć, Pokaże Grę którą wykonałem W javie
